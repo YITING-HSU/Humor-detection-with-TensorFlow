@@ -6,7 +6,7 @@ The notebook comprises of two sections:
 
 **Part I : CNN model**
 
-Part I is the focus of this project. The structure of this part follows the universal workflow of machine learning in Section 4.5 in Deep Learning with Python.
+Part I is the center of this project. The structure of this part follows the universal workflow of machine learning in Section 4.5 in Deep Learning with Python.
 
 This section is composed of five primary sections: 
 
