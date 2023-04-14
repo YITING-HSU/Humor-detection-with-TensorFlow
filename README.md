@@ -1,6 +1,6 @@
 ## Binary Classification with Tensorflow: humor detection
 
-This project uses a dataset that consists of 200k labeled short texts (Annamoradnejad and Zoghi, 2022) to construct a binary classifier to classify humor. The classifier was built with TensorFlow convolutional neural network.
+This project uses a dataset that consists of [200k labeled short texts](https://arxiv.org/abs/2004.12765) to construct a binary classifier to classify humor. The classifier was built with TensorFlow convolutional neural network.
 
 An additional classifier trained with BERT was also constructed for a comparative discussion.
 
@@ -8,7 +8,7 @@ The notebook consists of two parts:
 
 **Part I : CNN model**
 
-Part I is the core of this project. The structure of this part follows the universal workflow of machine learning in Section 4.5 in Deep Learning with Python (Chollet, 2018).
+Part I is the core of this project. The structure of this part follows the universal workflow of machine learning in Section 4.5 in Deep Learning with Python.
 
 This part consists of five main sections:
 
