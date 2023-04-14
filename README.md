@@ -1,16 +1,14 @@
 ## Binary Classification with Tensorflow: humor detection
 
-This project uses a dataset that consists of [200k labeled short texts](https://arxiv.org/abs/2004.12765) to construct a binary classifier to classify humor. The classifier was built with TensorFlow convolutional neural network.
+In this project, a TensorFlow convolutional neural network was employed to build a binary classifier that can classify humor, using a dataset of [200k labeled short texts](https://arxiv.org/abs/2004.12765). A second classifier was also constructed using BERT for comparative analysis.
 
-An additional classifier trained with BERT was also constructed for a comparative discussion.
-
-The notebook consists of two parts:
+The notebook comprises of two sections:
 
 **Part I : CNN model**
 
-Part I is the core of this project. The structure of this part follows the universal workflow of machine learning in Section 4.5 in Deep Learning with Python.
+Part I is the focus of this project. The structure of this part follows the universal workflow of machine learning in Section 4.5 in Deep Learning with Python.
 
-This part consists of five main sections:
+This section is composed of five primary sections: 
 
 * Introduction
 * Developing a simple model with statistical power
@@ -20,9 +18,9 @@ This part consists of five main sections:
 
 **Part II : BERT model**
 
-Part II documents the experiment on training a BERT model with the same dataset used in Part I. Since this is an additional experiment, this part will not follow the universal workflow. The aim of Part II is to create a small BERT model and compare its result and architecture with the final CNN model.
+Part II of the project documents an experiment in which a BERT model is trained using the same dataset employed in Part I. Unlike Part I, this section will not follow the standard machine learning workflow since it is an additional experiment. The objective of Part II is to construct a compact BERT model and compare its architecture and outcomes with the final CNN model.
 
-This part consists of four main sections:
+This section is divided into four primary sections.
 
 * Introduction
 * Pre-processing
